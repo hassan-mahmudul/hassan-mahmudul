@@ -4,7 +4,7 @@
 
 📍 Dhaka, Bangladesh  
 💼 LinkedIn: https://www.linkedin.com/in/mahmudul-hasssan/  
-🔗 GitHub: https://github.com/mahmud-hassan-dev/
+🔗 GitHub: https://github.com/hassan-mahmudul/hassan-mahmudul
 
 ---
 
