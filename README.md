@@ -3,7 +3,7 @@
 ### Front-End Developer | Angular Developer
 
 📍 Dhaka, Bangladesh  
-💼 LinkedIn: https://www.linkedin.com/in/mahmudul-hasssan/  
+💼 LinkedIn: https://www.linkedin.com/in/mah-mudul-hassan/  
 🔗 GitHub: https://github.com/hassan-mahmudul/hassan-mahmudul
 
 ---
@@ -227,8 +227,8 @@ Graduated with Distinction
 
 ## 🤝 Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/mahmudul-hasssan/
-- GitHub: https://github.com/mahmud-hassan-dev/
+- LinkedIn: https://www.linkedin.com/in/mah-mudul-hassan/
+- GitHub: https://github.com/hassan-mahmudul/hassan-mahmudul
 
 ---
 
